@@ -10,15 +10,6 @@
 * Multi-Language support
 
 
-# ⚡️ Getting Started
-
-### Before deploying Yukki Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
-
-> If you want to start working with Yukki Music Bot you can either fork or import repo .
-> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-> If you'd like to talk to us, join us on our [Telegram Group](https://t.me/YukkiSupport)
-
-
 ## 🖇 Prerequisites
 
 > In order to avoid conflicts in your project, you must have/installed
@@ -39,7 +30,7 @@
 
 ## 🖇 Heroku Deployment
 
-<h4>Click the button below to deploy Yukki on Heroku!</h4>    
+<h4>Click the button below to deploy SKY on Heroku!</h4>    
 <a href="https://yukki.tech/deploy/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 > Click on buttons below to expand and  detailed explanation process. !
